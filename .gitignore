@@ -1,0 +1,6 @@
+venv/
+.idea/
+test.py
+__pycache__/
+examples/.ipynb_checkpoints/
+.DS_Store
